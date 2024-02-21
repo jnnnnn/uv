@@ -4590,6 +4590,7 @@ name = "uv-traits"
 version = "0.0.1"
 dependencies = [
  "anyhow",
+ "clap",
  "distribution-types",
  "once-map",
  "pep508_rs",
